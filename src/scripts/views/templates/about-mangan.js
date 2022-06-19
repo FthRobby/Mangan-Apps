@@ -5,8 +5,7 @@ const aboutMangan = `
                 <div>
                     <figure class="headline__figure">
                     <picture>
-                        <source media="(max-width: 599px)" srcset="images/mangan-small.jpg">
-                        <source media="(min-width: 600px)" srcset="images/mangan-large.jpg">
+                        
                         <img class="lazyload" src="images/heros/mangan.jpg">
                     </picture>
                      <figcaption>Image Source : https://suarabanyumas.com/</figcaption>
