@@ -1,7 +1,7 @@
 import CONFIG from "../../globals/configs";
 
 const createRestaurantItemTemplate = (restaurant) => `
-    <article tabindex="0" class="post-item">
+    <article tabindex="0" class="post-item" data-aos="fade-down">
             <img class="lazyload post-item__thumbnail" data-src="${CONFIG.BASE_IMAGE_URL}${restaurant.pictureId}" alt="${restaurant.name}">
         <div class="post-item__header">
             <div class="post-item__header__rating">

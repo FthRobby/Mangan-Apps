@@ -9,6 +9,16 @@ import swRegister from './utils/sw-register';
 
 import 'lazysizes';
 import 'lazysizes/plugins/parent-fit/ls.parent-fit';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
+AOS.init({
+    disable: false,
+    offset: 100,
+    delay: 0,
+    once: false,
+    duration: 1000
+});
 
 const app = new App({
     button: document.querySelector('#menu'),
