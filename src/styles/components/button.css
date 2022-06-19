@@ -1,0 +1,34 @@
+
+.fa-location-arrow {
+  color: #0660e6;
+}
+
+.fa-star {
+  color: #ffd900;
+}
+
+.fa-clipboard-list {
+  color: #e68506
+}
+
+.fa-hamburger {
+  color: #f80154;
+}
+
+.fa-beer {
+  color: #f80154;
+}
+
+.inputBtn {
+  padding: 0.375em 0.75em;
+  font-weight: bold;
+  min-height: 44px;
+  color: #000;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #d9db3b;
+  font-size: 13px;
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+}
