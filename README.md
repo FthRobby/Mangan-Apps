@@ -1,6 +1,6 @@
 # Mangan - Apps
 ### Project Result :
-<img src="src/public/mangan.png">
+<img src="src/public/mangan.png" >
 
 ### Project setup
 ```
@@ -18,4 +18,4 @@ npm run build
 ```
 
 ### About Project
-This file is submission from [Dicoding [Menjadi Front-End Web Developer Expert]]([https://](https://www.dicoding.com/academies/219))
+This file is submission from [Dicoding Menjadi Front-End Web Developer Expert](https://www.dicoding.com/academies/219)
