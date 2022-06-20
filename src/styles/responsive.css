@@ -151,10 +151,13 @@
       font-size: 15px;
   }
 
-  .hero {
-    background-image: url('/images/hero-image_2-small.jpg');
-    min-height: 480px;
-  }
+}
+
+@media screen and (max-width: 650px) {
+    .hero {
+        background-image: url('/images/hero-image_2-small.jpg');
+        min-height: 480px;
+      }
 }
 
 @media screen and (min-width: 790px) {
