@@ -150,6 +150,11 @@
   .restaurant__menus li {
       font-size: 15px;
   }
+
+  .hero {
+    background-image: url('/images/hero-image_2-small.jpg');
+    min-height: 480px;
+  }
 }
 
 @media screen and (min-width: 790px) {
