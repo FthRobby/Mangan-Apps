@@ -7,14 +7,24 @@
 npm install
 ```
 
-### Compile and hot-reloads for development
+### Compiles and hot-reloads for development
 ```
 npm run start-dev
+```
+
+### Compiles and minifies image source
+```
+npm run build-image
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### End To End Testing Using CodeceptJs
+```
+npm run e2e
 ```
 
 ### About Project
