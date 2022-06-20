@@ -28,4 +28,4 @@ npm run e2e
 ```
 
 ### About Project
-This file is submission from [Dicoding Menjadi Front-End Web Developer Expert](https://www.dicoding.com/academies/219)
+This file is submission from [Menjadi Front-End Web Developer Expert](https://www.dicoding.com/academies/219)
